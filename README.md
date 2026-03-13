@@ -1,1 +1,1 @@
-# ML-from-Scratch-DSA
+# Competetive coding
